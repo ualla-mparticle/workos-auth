@@ -1,0 +1,109 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-5cd94c89d3acac5f.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/9-XUAUH357TiyszScoIFq/_buildManifest.js",
+    "static/9-XUAUH357TiyszScoIFq/_ssgManifest.js",
+    "static/9-XUAUH357TiyszScoIFq/_middlewareManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-9b312e20a4e32339.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/661-e32bfa9c3fce69b8.js",
+      "static/css/e8159db10c9d561c.css",
+      "static/chunks/pages/index-c09ad600089af1b5.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-9b312e20a4e32339.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/css/ead99d487e300067.css",
+      "static/chunks/pages/_app-b24c8ef607d97797.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-9b312e20a4e32339.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/pages/_error-2280fa386d040b66.js"
+    ],
+    "/_middleware": [
+      "static/chunks/webpack-9b312e20a4e32339.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "server/middleware-runtime.js",
+      "server/pages/_middleware.js"
+    ],
+    "/api-example": [
+      "static/chunks/webpack-9b312e20a4e32339.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/661-e32bfa9c3fce69b8.js",
+      "static/css/e8159db10c9d561c.css",
+      "static/chunks/pages/api-example-e09687315411379c.js"
+    ],
+    "/client": [
+      "static/chunks/webpack-9b312e20a4e32339.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/661-e32bfa9c3fce69b8.js",
+      "static/css/e8159db10c9d561c.css",
+      "static/chunks/pages/client-056957c9b27a482b.js"
+    ],
+    "/middleware-protected": [
+      "static/chunks/webpack-9b312e20a4e32339.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/661-e32bfa9c3fce69b8.js",
+      "static/css/e8159db10c9d561c.css",
+      "static/chunks/pages/middleware-protected-bc38eceac8c437e7.js"
+    ],
+    "/policy": [
+      "static/chunks/webpack-9b312e20a4e32339.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/661-e32bfa9c3fce69b8.js",
+      "static/css/e8159db10c9d561c.css",
+      "static/chunks/pages/policy-c26a1d1e2ee936be.js"
+    ],
+    "/protected": [
+      "static/chunks/webpack-9b312e20a4e32339.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/661-e32bfa9c3fce69b8.js",
+      "static/css/e8159db10c9d561c.css",
+      "static/chunks/pages/protected-9183b708dcbb57c6.js"
+    ],
+    "/server": [
+      "static/chunks/webpack-9b312e20a4e32339.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/661-e32bfa9c3fce69b8.js",
+      "static/css/e8159db10c9d561c.css",
+      "static/chunks/pages/server-f657b80dd888b7b4.js"
+    ],
+    "/workos-auth/callback": [
+      "static/chunks/webpack-9b312e20a4e32339.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/pages/workos-auth/callback-e446550f6ebb2439.js"
+    ],
+    "/workos-auth/dashboard": [
+      "static/chunks/webpack-9b312e20a4e32339.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/pages/workos-auth/dashboard-d84da3fb59e8c559.js"
+    ],
+    "/workos-auth/login": [
+      "static/chunks/webpack-9b312e20a4e32339.js",
+      "static/chunks/framework-91d7f78b5b4003c8.js",
+      "static/chunks/main-83803dd478f5b5bc.js",
+      "static/chunks/pages/workos-auth/login-a76998ea5f06aea3.js"
+    ]
+  },
+  "ampFirstPages": []
+}

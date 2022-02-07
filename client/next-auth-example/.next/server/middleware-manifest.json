@@ -1,0 +1,29 @@
+{
+  "sortedMiddleware": [
+    "/"
+  ],
+  "clientInfo": [
+    [
+      "/",
+      false
+    ]
+  ],
+  "middleware": {
+    "/": {
+      "env": [
+        "SECRET",
+        "NEXTAUTH_URL",
+        "VERCEL_URL",
+        "VERCEL"
+      ],
+      "files": [
+        "server/middleware-runtime.js",
+        "server/pages/_middleware.js"
+      ],
+      "name": "pages/_middleware",
+      "page": "/",
+      "regexp": "^/(?!_next).*$"
+    }
+  },
+  "version": 1
+}
